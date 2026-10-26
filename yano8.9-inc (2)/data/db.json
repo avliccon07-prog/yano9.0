@@ -1,0 +1,48 @@
+{
+  "osas_users": [
+    {
+      "id": "admin-1",
+      "uid": "admin-1",
+      "fullName": "Princess Ann T. Ruzol",
+      "email": "arnoldviena@gmail.com",
+      "role": "ADMIN",
+      "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2024-01-01",
+      "passwordHash": "sha256$b50039fa8dbc8418556600ce6b57cc82fb5b30510bf416319f26dd40eb44a681",
+      "password": "sha256$b50039fa8dbc8418556600ce6b57cc82fb5b30510bf416319f26dd40eb44a681",
+      "mustChangePassword": false,
+      "updatedAt": 1792966138868
+    },
+    {
+      "id": "guidance-admin-1",
+      "uid": "guidance-admin-1",
+      "fullName": "Maria Mel B. Glemao",
+      "email": "avliccon04@gmail.com",
+      "role": "GUIDANCE_ADMIN",
+      "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "createdAt": "2024-01-01",
+      "mustChangePassword": false,
+      "updatedAt": 1792966138868
+    }
+  ],
+  "osas_announcements": [],
+  "osas_safety_reports": [],
+  "osas_scholarships": [],
+  "osas_scholarship_apps": [],
+  "osas_appointments": [],
+  "osas_disciplinary": [],
+  "osas_disciplinary_reports": [],
+  "osas_interventions": [],
+  "osas_dorm_rooms": [],
+  "osas_dorm_applicants": [],
+  "osas_dorm_reports": [],
+  "osas_feedbacks": [],
+  "osas_activity_logs": [],
+  "osas_notifications": [],
+  "osas_archive": [],
+  "osas_purged_ids": [],
+  "osas_restored_ids": [],
+  "osas_transaction_ratings": [],
+  "osas_evaluations": [],
+  "osas_email_logs": []
+}
